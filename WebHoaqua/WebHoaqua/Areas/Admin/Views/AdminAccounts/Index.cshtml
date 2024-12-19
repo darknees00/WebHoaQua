@@ -1,0 +1,78 @@
+﻿@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<WebHoaqua.Models.Account>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row" style="margin-left: 100px">
+    
+    <div style="width: 100%">
+        <h1>Quản lý Account</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <form asp-action="Index" method="get" class="form">
+            <div>
+                <label>Tên</label>
+                <input type="text" name="name" />
+            </div>
+            <div>
+                <button class="btn btn-success" type="submit">Gửi</button>
+            </div>
+        </form>
+    </div>
+    <div style="margin-top: -300px">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Username
+                    </th>
+                    <th>
+                        Password
+                    </th>
+                    <th>
+                        ype
+                    </th>
+                    <th>
+                        Email
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Username)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Password)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Type)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Email)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Username">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Username">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Username">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="class1">
+            @Html.PagedListPager(Model, page => Url.Action("Index", "AdminAccounts", new { page = page }))
+        </div>
+    </div>
+
+
+</div>

@@ -1,0 +1,96 @@
+﻿@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<WebHoaqua.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row" style="margin-left: 100px">
+    
+    <div style="width: 100%">
+        <h1>Index</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <form asp-action="Index" method="get" class="form">
+            <div>
+                <label>Tên</label>
+                <input type="text" name="name" />
+            </div>
+            <div>
+                <button class="btn btn-success" type="submit">Gửi</button>
+            </div>
+        </form>
+    </div>
+    <div style="margin-top: -300px">
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ProductName
+            </th>
+            <th>
+                PriceImport
+            </th>
+            <th>
+                PriceSale
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+               Category
+            </th>
+            <th>
+               Status
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceImport)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceSale)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.Image)" width="100px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CateId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status.StatusId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+        <div class="class1">
+            @Html.PagedListPager(Model, page => Url.Action("Index", "AdminProducts", new { page = page }))
+        </div>
+
+</div>
+
+</div>
+

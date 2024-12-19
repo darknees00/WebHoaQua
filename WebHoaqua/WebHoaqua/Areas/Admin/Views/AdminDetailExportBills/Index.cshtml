@@ -1,0 +1,84 @@
+﻿@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<WebHoaqua.Models.DetailExportBill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row" style="margin-left: 100px">
+    
+    <div style="width: 100%">
+        <h1>Quản lý Details Export Bills</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <form asp-action="Index" method="get" class="form">
+            <div>
+                <label>Tên</label>
+                <input type="text" name="name" />
+            </div>
+            <div>
+                <button class="btn btn-success" type="submit">Gửi</button>
+            </div>
+        </form>
+    </div>
+
+<div style="margin-top: -300px">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Quantity
+            </th>
+            <th>
+                TotalPrice
+            </th>
+            <th>
+                Discount
+            </th>
+            <th>
+                Export
+            </th>
+            <th>
+                Product
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Export.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+        <div class="class1">
+            @Html.PagedListPager(Model, page => Url.Action("Index", "AdminDetailExportBills", new { page = page }))
+        </div>
+
+    </div>
+
+</div>

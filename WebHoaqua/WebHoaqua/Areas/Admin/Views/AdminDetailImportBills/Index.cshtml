@@ -1,0 +1,73 @@
+﻿@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<WebHoaqua.Models.DetailImportBill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row" style="margin-left: 100px">
+    <div style="width: 100%">
+        <h1>Quản lý Details Import Bills</h1>
+
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+    </div>
+
+    <div style="margin-top: -300px">
+        
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Quantity
+            </th>
+            <th>
+               PriceAitem
+            </th>
+            <th>
+               TotalPrice
+            </th>
+            <th>
+               Import
+            </th>
+            <th>
+               Product
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PriceAitem)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Import.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+        <div class="class1">
+            @Html.PagedListPager(Model, page => Url.Action("Index", "AdminDetailImportBills", new { page = page }))
+        </div>
+    </div>
+
+</div>

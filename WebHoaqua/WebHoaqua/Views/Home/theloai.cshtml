@@ -1,0 +1,191 @@
+﻿@model IEnumerable<WebHoaqua.Models.Product>
+@{
+    ViewData["Title"] = "theloai";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Category> lstheloai = ViewBag.lsTheLoais;
+    Category theloai = ViewBag.theloaiOnes;
+    List<Product> lsTop1 = ViewBag.lsDanhsachTop1;
+}
+<section class="hero hero-normal">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="hero__categories">
+                        <div class="hero__categories__all">
+                            <i class="fa fa-bars"></i>
+                            <span>All departments</span>
+                        </div>
+                        <ul>
+                            <li><a href="#">Fresh Meat</a></li>
+                            <li><a href="#">Vegetables</a></li>
+                            <li><a href="#">Fruit & Nut Gifts</a></li>
+                            <li><a href="#">Fresh Berries</a></li>
+                            <li><a href="#">Ocean Foods</a></li>
+                            <li><a href="#">Butter & Eggs</a></li>
+                            <li><a href="#">Fastfood</a></li>
+                            <li><a href="#">Fresh Onion</a></li>
+                            <li><a href="#">Papayaya & Crisps</a></li>
+                            <li><a href="#">Oatmeal</a></li>
+                            <li><a href="#">Fresh Bananas</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-9">
+                    <div class="hero__search">
+                        <div class="hero__search__form">
+                            <form action="#">
+                                <div class="hero__search__categories">
+                                    All Categories
+                                    <span class="arrow_carrot-down"></span>
+                                </div>
+                                <input type="text" placeholder="What do yo u need?">
+                                <button type="submit" class="site-btn">SEARCH</button>
+                            </form>
+                        </div>
+                        <div class="hero__search__phone">
+                            <div class="hero__search__phone__icon">
+                                <i class="fa fa-phone"></i>
+                            </div>
+                            <div class="hero__search__phone__text">
+                                <h5>+65 11.188.888</h5>
+                                <span>support 24/7 time</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hero Section End -->
+
+    <!-- Breadcrumb Section Begin -->
+    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="breadcrumb__text">
+                        <h2>Organi Shop</h2>
+                        <div class="breadcrumb__option">
+                            <a href="./index.html">Home</a>
+                            <span>Shop</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Breadcrumb Section End -->
+
+    <!-- Product Section Begin -->
+    <section class="product spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-5">
+                    <div class="sidebar">
+                        <div class="sidebar__item">
+                            <h4>Danh sách sản phẩm</h4>
+                            <ul>
+                                @foreach(var item in lstheloai){
+                                string urlTL = $"/theloai/{item.CateId}";
+                                <li><a href="@urlTL">@item.CategoryName</a></li>
+                                }
+                                
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-7">
+                    <div class="product__discount">
+                        <div class="section-title product__discount__title">
+                            <h2>Danh sách thể loại: @theloai.CategoryName</h2>
+                        </div>
+                        <div class="row">
+                            <div class="product__discount__slider owl-carousel">
+                            @foreach (var item in lsTop1)
+                            {
+                                string url = $"/{item.ProductName}-{item.ProductId}.html";
+                                <div class="col-lg-4">
+                                    <div class="product__discount__item">
+                                        <div class="product__discount__item__pic set-bg"
+                                         data-setbg="@item.Image">
+                                            <div class="product__discount__percent">-20%</div>
+                                            <ul class="product__item__pic__hover">
+                                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="product__discount__item__text">
+                                            <span>Còn hàng</span>
+                                            <h5><a href="@url">@item.ProductName</a></h5>
+                                            <div class="product__item__price">Giá: @item.PriceSale VNĐ</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                        </div>
+                    </div>
+                    <div class="filter__item">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-5">
+                                <div class="filter__sort">
+                                    <span>Sort By</span>
+                                    <select>
+                                        <option value="0">Home</option>
+                                        <option value="0">@theloai.CategoryName</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <div class="filter__found">
+                                @{
+                                    var index = 0;
+                                    for(var i = 0; i < Model.Count(); i++)
+                                    {
+                                        index++;
+                                    }
+                                }
+                                    <h6><span>@index</span> Sản phẩm</h6>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-3">
+                                <div class="filter__option">
+                                    <span class="icon_grid-2x2"></span>
+                                    <span class="icon_ul"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                    @foreach(var item in Model)
+                    {
+                        string url = $"/{item.ProductName}-{item.ProductId}.html";
+                        <div class="col-lg-4 col-md-6 col-sm-6">
+                            <div class="product__item">
+                                <div class="product__item__pic set-bg" data-setbg="@item.Image">
+                                    <ul class="product__item__pic__hover">
+                                        <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                    </ul>
+                                </div>
+                                <div class="product__item__text">
+                                    <h6><a href="@url">@item.ProductName</a></h6>
+                                    <h5>Giá: @item.PriceSale VNĐ</h5>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+                    <div class="product__pagination">
+                        <a href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#"><i class="fa fa-long-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>

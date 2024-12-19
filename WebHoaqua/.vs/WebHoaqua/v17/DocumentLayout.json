@@ -1,0 +1,1035 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Darkness\\WebHoaqua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\detailss.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\detailss.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\pgae.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\pgae.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admindetailimportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admindetailimportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\wwwroot\\adminassion\\vendor\\fontawesome-free\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\wwwroot\\adminassion\\vendor\\fontawesome-free\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\models\\fruitshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\models\\fruitshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\entity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\addcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\addcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminsupliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminsupliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminsupliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminsupliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminstatus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminstatus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminimportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminimportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminimportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminimportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminexportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminexportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admindetailexportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admindetailexportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admindetailexportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admindetailexportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admindetailimportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admindetailimportbills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminexportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminexportbills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admincustomers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admincustomers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admincustomers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admincustomers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admincategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admincategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admincategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admincategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminaccounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminaccounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminaccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminaccounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminaccounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\adminaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminsupliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminsupliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\adminsuplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\adminsuplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\adminstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\adminstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminimportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminimportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\adminimportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\adminimportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\adminexportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\adminexportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\adminexportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\adminexportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admindetailimportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admindetailimportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\admindetailimportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\admindetailimportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admindetailexportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admindetailexportbills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\admindetailexportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\admindetailexportbillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|d:\\darkness\\webhoaqua\\webhoaqua\\areas\\admin\\views\\admincustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0EBE47-5CE6-4085-A278-13B5C422D8D6}|WebHoaqua\\WebHoaqua.csproj|solutionrelative:webhoaqua\\areas\\admin\\views\\admincustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\OneDrive\\Desktop\\WebTraiCay\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:24:20.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "detailss.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\detailss.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\detailss.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\detailss.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\detailss.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:21:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:20:17.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Models\\Account.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\Account.cs",
+              "RelativeToolTip": "WebHoaqua\\Models\\Account.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:38:28.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Login\\Login.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:20:31.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAswH4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pgae.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Pgae.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\Pgae.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Pgae.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\Pgae.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "thanhtoan.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\thanhtoan.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\thanhtoan.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\thanhtoan.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\thanhtoan.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:24:41.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Shop.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\Shop.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Shop.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\Shop.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Models\\Product.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\Product.cs",
+              "RelativeToolTip": "WebHoaqua\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:21:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:03:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebHoaqua\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebHoaqua\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T06:25:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Models\\Status.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\Status.cs",
+              "RelativeToolTip": "WebHoaqua\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:38:15.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\wwwroot\\AdminAssion\\vendor\\fontawesome-free\\package.json",
+              "RelativeDocumentMoniker": "WebHoaqua\\wwwroot\\AdminAssion\\vendor\\fontawesome-free\\package.json",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\wwwroot\\AdminAssion\\vendor\\fontawesome-free\\package.json",
+              "RelativeToolTip": "WebHoaqua\\wwwroot\\AdminAssion\\vendor\\fontawesome-free\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T06:45:00.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FruitShopContext.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\FruitShopContext.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Models\\FruitShopContext.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Models\\FruitShopContext.cs",
+              "RelativeToolTip": "WebHoaqua\\Models\\FruitShopContext.cs",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAuwCUAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAUwPsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\appsettings.json",
+              "RelativeDocumentMoniker": "WebHoaqua\\appsettings.json",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\appsettings.json",
+              "RelativeToolTip": "WebHoaqua\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T06:15:36.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAIBJwGYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\AddCart\\CartItem.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\AddCart\\CartItem.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\AddCart\\CartItem.cs",
+              "RelativeToolTip": "WebHoaqua\\AddCart\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Entity\\Cart.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Entity\\Cart.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Entity\\Cart.cs",
+              "RelativeToolTip": "WebHoaqua\\Entity\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminProductsController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwGAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAABBwFAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBQAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminStatus\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Edit.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAABBwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCUAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB8AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwB8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminCategories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Delete.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Delete.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Edit.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Edit.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Create.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Create.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminAccounts\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminImportBills\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAIBJwEkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AdminImportBillsController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminImportBillsController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminImportBillsController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminImportBillsController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminImportBillsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA0wBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminAccountsController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminAccountsController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminAccountsController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminAccountsController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminAccountsController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAwFsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminSupliersController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminSupliersController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminSupliersController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminSupliersController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminSupliersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIBJwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminStatusController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminStatusController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminStatusController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminStatusController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminStatusController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminSupliers\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailImportBills\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminExportBills\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAIBJwEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminExportBillsController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminExportBillsController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminExportBillsController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminExportBillsController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminExportBillsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminDetailImportBillsController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailImportBillsController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailImportBillsController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailImportBillsController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailImportBillsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Index.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Index.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminDetailExportBills\\Index.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAIBJwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AdminDetailExportBillsController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailExportBillsController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailExportBillsController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailExportBillsController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminDetailExportBillsController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AdminCustomersController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AdminCategoriesController.cs",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:15:36.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "ToolTip": "D:\\Darkness\\WebHoaqua\\WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "RelativeToolTip": "WebHoaqua\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T06:15:36.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WebTraiCay\\web\\index.html",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\WebTraiCay\\web\\index.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2023-06-02T09:48:23.666Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
